@@ -1,4 +1,4 @@
-# Author: JT Hamrick
+# Author: brooks and xih
 # design based off of http://chrisdianamedia.com/simplestore/
 import os.path
 import tornado.ioloop
