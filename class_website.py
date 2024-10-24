@@ -26,7 +26,7 @@ define("mysql_password", default="CxdDldXEsm2v6Z788bIDLVj5pf6LXe7L", help="datab
 
 __UPLOADS__ = "static/uploads/"
 
-
+# hello
 class Application(tornado.web.Application):
     def __init__(self):
         handlers = [
